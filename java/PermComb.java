@@ -1,3 +1,4 @@
+package java;
 public class PermComb {
     public static void main(String[] args) {
 

@@ -7,7 +7,7 @@ programmers @hongzzi.dev@gmail.com
 
 파일 실행을 위해 node.js 와 java 1.8이상 이 필수로 설치되어야합니다.
 
-## 특정 알고리즘 대표 문제 답변
+## :star:  특정 알고리즘
 
 * 위상정렬
 * 이분탐색
