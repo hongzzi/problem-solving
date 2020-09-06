@@ -1,7 +1,7 @@
 > 알고리즘 문제풀이와 코딩테스트 답변들
 
-acmicpc @jihong1117
-programmers @hongzzi.dev@gmail.com
+acmicpc @jihong1117  
+programmers @hongzzi.dev@gmail.com  
 
 ## :star: Info
 
