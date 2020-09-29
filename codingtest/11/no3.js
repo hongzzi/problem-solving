@@ -2,7 +2,7 @@ function solution(S) {
     const sum = S.reduce((pre, next) => pre+next);
     const n = S.length;
 
-    return Math.abs(sum - (n * (n-1) / 2));
+    return Math.abs(sum - (n * (n+1) / 2));
 }
 
 console.log(solution(['abc', 'bca', 'dbe']));
